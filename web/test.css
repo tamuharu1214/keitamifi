@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300);
+body {
+  text-align: center;
+  background: white;
+  color: #FFF;
+  user-select: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.update {
+  text-align: center;
+  color: black;
+	font-size: 200%;
+	border-bottom: 2px solid;
+  display: inline-block;
+  width: 900px;
+}
