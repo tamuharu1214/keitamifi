@@ -1,0 +1,8 @@
+PHP初心者がいきなり掲示板を作ってみた。その1（HTML編）
+https://i-bitzedge.com/html-css/how-to-create-bulletin-board-1
+PHP初心者がいきなり掲示板を作ってみた。その3-1（PHP編）
+https://i-bitzedge.com/php/how-to-create-bulletin-board-3-1
+PHP初心者がいきなり掲示板を作ってみた。その3-2（PHP編）
+https://i-bitzedge.com/php/how-to-create-bulletin-board-3-2
+【PHP初心者向け】セキュアな掲示板を最小構成から作る
+https://qiita.com/mpyw/items/2c54d0ea95423bd88f60#level-0-html%E3%81%AE%E3%81%BF%E3%82%92%E8%A8%98%E8%BF%B0%E3%81%97%E3%81%9F%E3%82%B3%E3%83%BC%E3%83%89

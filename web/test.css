@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300);
 body {
   text-align: center;
-  background: white;
+  background: #f0f8ff;
   color: #FFF;
   user-select: none;
 }
@@ -10,7 +9,9 @@ a {
   color: black;
   text-decoration: none;
 }
-
+h1,h2,p,form{
+  color: black;
+}
 .update {
   text-align: center;
   color: black;
@@ -22,4 +23,10 @@ a {
 #randomimage {
   width: 200px;
   height: 200px;
+}
+.toukou{
+  color: black;
+  border-top: 2px solid;
+  margin: 40px auto;
+  width: 900px;
 }
