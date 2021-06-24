@@ -19,3 +19,7 @@ a {
   display: inline-block;
   width: 900px;
 }
+#randomimage {
+  width: 200px;
+  height: 200px;
+}
