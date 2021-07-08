@@ -1,0 +1,53 @@
+#randomimage {
+    width: 200px;
+    height: 200px;
+  }
+  
+  body {
+      font-family: fantasy;
+      text-align: center;
+      background: #f0f8ff;
+      color: black;
+      user-select: none;
+  }
+  
+  .update {
+    text-align: center;
+    color: black;
+      font-size: 100%;
+      border-bottom: 2px solid;
+    display: inline-block;
+    width: 900px;
+  }
+
+  .novel{
+    position: relative;
+    display: inline-block;
+    margin: 1.5em 0 1.5em 15px;
+    background: #fff0cd;
+    box-shadow: 0px 0px 0px 5px #fff0cd;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+    width: 400px;
+    height: 100px;
+    max-height: 300px;
+}
+.novel:after{
+    position: absolute;
+    content: '';
+    right: -7px;
+    top: -7px;
+    border-width: 0 15px 15px 0;
+    border-style: solid;
+    border-color: #ffdb88 #fff #ffdb88;
+    box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+.novel p {
+    margin: 0; 
+    padding: 0;
+}
+
+.noveltext{
+  width: 200px;
+}
